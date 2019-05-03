@@ -54,7 +54,7 @@ The following is complete example JSON message:
       "result": "pass",
       "domain": "example.com"
     },
-    "tls": true,
+    "tls": true
   },
   "plain": "Test with HTML.",
   "html": "<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html; charset=ISO-8859-1\"></head><body\n bgcolor=\"#FFFFFF\" text=\"#000000\">\nTest with <span style=\"font-weight: bold;\">HTML</span>.<br>\n</body>\n</html>",
